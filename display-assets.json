@@ -1,0 +1,158 @@
+[
+  {
+    "page": "index",
+    "index": 1,
+    "file": "assets/red-curtain-installation-display.jpg",
+    "source": "assets/red-curtain-installation.png"
+  },
+  {
+    "page": "index",
+    "index": 2,
+    "file": "assets/certainty-cover-display.webp",
+    "source": "assets/certainty-cover.png"
+  },
+  {
+    "page": "index",
+    "index": 3,
+    "file": "assets/tampered-spring-cover-display.png",
+    "source": "https://static.wixstatic.com/media/7fd92a_bea7efc59dc445d18e63ec636d8beb25~mv2.png/v1/crop/x_0,y_563,w_4096,h_1514/fill/w_1325,h_490,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/7%203.png"
+  },
+  {
+    "page": "index",
+    "index": 4,
+    "file": "assets/consciousindustry-cover-display.png",
+    "source": "https://static.wixstatic.com/media/7fd92a_9d8a6d65069b4b2b927f9765f7d4f537~mv2.png/v1/fill/w_1325,h_490,fp_0.51_0.19,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/CO.png"
+  },
+  {
+    "page": "aboutme",
+    "index": 1,
+    "file": "assets/tan-ze-portrait-display.webp",
+    "source": "assets/tan-ze-portrait.jpg"
+  },
+  {
+    "page": "unspoken-colony",
+    "index": 1,
+    "file": "assets/coutesy-protocol-01-display.webp",
+    "source": "assets/coutesy-protocol-01.png"
+  },
+  {
+    "page": "unspoken-colony",
+    "index": 2,
+    "file": "assets/coutesy-protocol-02-display.webp",
+    "source": "assets/coutesy-protocol-02.png"
+  },
+  {
+    "page": "unspoken-colony",
+    "index": 3,
+    "file": "assets/coutesy-protocol-03-display.webp",
+    "source": "assets/coutesy-protocol-03.png"
+  },
+  {
+    "page": "unspoken-colony",
+    "index": 4,
+    "file": "assets/coutesy-protocol-04-display.webp",
+    "source": "assets/coutesy-protocol-04.png"
+  },
+  {
+    "page": "silenttower",
+    "index": 1,
+    "file": "assets/certainty-panel-02-display.webp",
+    "source": "assets/certainty-panel-02.png"
+  },
+  {
+    "page": "silenttower",
+    "index": 2,
+    "file": "assets/certainty-panel-04-display.webp",
+    "source": "assets/certainty-panel-04.png"
+  },
+  {
+    "page": "silenttower",
+    "index": 3,
+    "file": "assets/certainty-panel-05-display.webp",
+    "source": "assets/certainty-panel-05.png"
+  },
+  {
+    "page": "silenttower",
+    "index": 4,
+    "file": "assets/certainty-panel-01-display.webp",
+    "source": "assets/certainty-panel-01.png"
+  },
+  {
+    "page": "silenttower",
+    "index": 5,
+    "file": "assets/certainty-panel-03-display.webp",
+    "source": "assets/certainty-panel-03.png"
+  },
+  {
+    "page": "tampered-spring",
+    "index": 1,
+    "file": "assets/tampered-spring-01-display.png",
+    "source": "https://static.wixstatic.com/media/7fd92a_fcac5c8f11b54903a98a3f33a7f9af6b~mv2.png/v1/fill/w_1325,h_699,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Frame%201.png"
+  },
+  {
+    "page": "tampered-spring",
+    "index": 2,
+    "file": "assets/tampered-spring-02-display.png",
+    "source": "https://static.wixstatic.com/media/7fd92a_0196e0019e5c4210873c475e4e5aa745~mv2.png/v1/fill/w_1325,h_748,fp_0.46_0.69,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Frame%202.png"
+  },
+  {
+    "page": "tampered-spring",
+    "index": 3,
+    "file": "assets/tampered-spring-03-display.png",
+    "source": "https://static.wixstatic.com/media/7fd92a_1e1d92e6b08345aa9b364883bce7eb45~mv2.png/v1/fill/w_1325,h_748,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Frame%203.png"
+  },
+  {
+    "page": "tampered-spring",
+    "index": 4,
+    "file": "assets/tampered-spring-04-display.png",
+    "source": "https://static.wixstatic.com/media/7fd92a_dd44451f69f84f498e3ba909d9413afb~mv2.png/v1/fill/w_1325,h_748,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Frame%208.png"
+  },
+  {
+    "page": "tampered-spring",
+    "index": 5,
+    "file": "assets/tampered-spring-05-display.png",
+    "source": "https://static.wixstatic.com/media/7fd92a_a65c3ebeefa042ae8e437e35d8fe4c08~mv2.png/v1/fill/w_1325,h_748,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Frame%207.png"
+  },
+  {
+    "page": "tampered-spring",
+    "index": 6,
+    "file": "assets/tampered-spring-06-display.png",
+    "source": "https://static.wixstatic.com/media/7fd92a_bea7efc59dc445d18e63ec636d8beb25~mv2.png/v1/fill/w_1325,h_748,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/7%203.png"
+  },
+  {
+    "page": "consciousindustry",
+    "index": 1,
+    "file": "assets/consciousindustry-01-display.png",
+    "source": "https://static.wixstatic.com/media/7fd92a_02f2b964ef7d46ff9b759bda8a253d1d~mv2.png/v1/fill/w_1325,h_653,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Frame%201.png"
+  },
+  {
+    "page": "consciousindustry",
+    "index": 2,
+    "file": "assets/consciousindustry-02-display.png",
+    "source": "https://static.wixstatic.com/media/7fd92a_07ec6561431c4f6ab756f40c6318fb5b~mv2.png/v1/fill/w_1325,h_748,fp_0.61_0.52,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Frame%2067.png"
+  },
+  {
+    "page": "consciousindustry",
+    "index": 3,
+    "file": "assets/consciousindustry-03-display.png",
+    "source": "https://static.wixstatic.com/media/7fd92a_f10cea8ad3124bf1a1fd624316104218~mv2.png/v1/fill/w_1325,h_748,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Frame%2068.png"
+  },
+  {
+    "page": "consciousindustry",
+    "index": 4,
+    "file": "assets/consciousindustry-04-display.png",
+    "source": "https://static.wixstatic.com/media/7fd92a_e6bc09ffc577429297f239037c95317f~mv2.png/v1/fill/w_1325,h_748,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Frame%2017.png"
+  },
+  {
+    "page": "consciousindustry",
+    "index": 5,
+    "file": "assets/consciousindustry-05-display.png",
+    "source": "https://static.wixstatic.com/media/7fd92a_2feeade2cae54e458f1ba2e9845e4eb3~mv2.png/v1/fill/w_1325,h_748,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Frame%206.png"
+  },
+  {
+    "page": "consciousindustry",
+    "index": 6,
+    "file": "assets/consciousindustry-06-display.png",
+    "source": "https://static.wixstatic.com/media/7fd92a_40879327a64f4a41933d485d3332f2d2~mv2.png/v1/fill/w_1325,h_748,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Frame%205.png"
+  }
+]
