@@ -1,25 +1,27 @@
-page,panel,file,original_name
-aboutme,portrait,assets/tan-ze-portrait.jpg,codex-clipboard-538d394b-37ac-4614-ae3e-26c355ed085c.jpg
-index,cover-1,assets/red-curtain-installation.png,Photo 1.png
-index,cover-2,assets/certainty-cover.png,gallery4.png
-unspoken-colony,1,assets/coutesy-protocol-01.png,1920_1080 1.png
-unspoken-colony,2,assets/coutesy-protocol-02.png,1920 _ 1080 2.png
-unspoken-colony,3,assets/coutesy-protocol-03.png,1920 _ 1080 3.png
-unspoken-colony,4,assets/coutesy-protocol-04.png,1920 _ 1080 4.png
-silenttower,1,assets/certainty-panel-02.png,Introduction.png
-silenttower,2,assets/certainty-panel-04.png,Introduction-1.png
-silenttower,3,assets/certainty-panel-05.png,Introduction-2.png
-silenttower,4,assets/certainty-panel-01.png,Space Display.png
-silenttower,5,assets/certainty-panel-03.png,gallery5.png
-tampered-spring,1,assets/tampered-spring-01.png,Frame 1.png
-tampered-spring,2,assets/tampered-spring-02.png,Frame 2.png
-tampered-spring,3,assets/tampered-spring-03.png,Frame 3.png
-tampered-spring,4,assets/tampered-spring-04.png,Frame 8.png
-tampered-spring,5,assets/tampered-spring-05.png,Frame 7.png
-tampered-spring,6,assets/tampered-spring-06.png,7 3.png
-consciousindustry,1,assets/consciousindustry-01.png,Frame 1.png
-consciousindustry,2,assets/consciousindustry-02.png,Frame 67.png
-consciousindustry,3,assets/consciousindustry-03.png,Frame 68.png
-consciousindustry,4,assets/consciousindustry-04.png,Frame 17.png
-consciousindustry,5,assets/consciousindustry-05.png,Frame 6.png
-consciousindustry,6,assets/consciousindustry-06.png,Frame 5.png
+page,panel,file,source_reference
+index,1,assets/red-curtain-installation-display.webp,assets/red-curtain-installation.png
+index,2,assets/certainty-cover-display.webp,assets/certainty-cover.png
+index,3,assets/tampered-spring-cover-display.webp,"https://static.wixstatic.com/media/7fd92a_bea7efc59dc445d18e63ec636d8beb25~mv2.png/v1/crop/x_0,y_563,w_4096,h_1514/fill/w_1325,h_490,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/7%203.png"
+index,4,assets/consciousindustry-cover-display.webp,"https://static.wixstatic.com/media/7fd92a_9d8a6d65069b4b2b927f9765f7d4f537~mv2.png/v1/fill/w_1325,h_490,fp_0.51_0.19,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/CO.png"
+aboutme,1,assets/tan-ze-portrait-display.webp,assets/tan-ze-portrait.jpg
+unspoken-colony,1,assets/coutesy-protocol-01-display.webp,assets/coutesy-protocol-01.png
+unspoken-colony,2,assets/coutesy-protocol-02-display.webp,assets/coutesy-protocol-02.png
+unspoken-colony,3,assets/coutesy-protocol-03-display.webp,assets/coutesy-protocol-03.png
+unspoken-colony,4,assets/coutesy-protocol-04-display.webp,assets/coutesy-protocol-04.png
+silenttower,1,assets/certainty-panel-02-display.webp,assets/certainty-panel-02.png
+silenttower,2,assets/certainty-panel-04-display.webp,assets/certainty-panel-04.png
+silenttower,3,assets/certainty-panel-05-display.webp,assets/certainty-panel-05.png
+silenttower,4,assets/certainty-panel-01-display.webp,assets/certainty-panel-01.png
+silenttower,5,assets/certainty-panel-03-display.webp,assets/certainty-panel-03.png
+tampered-spring,1,assets/tampered-spring-01-display.webp,"https://static.wixstatic.com/media/7fd92a_fcac5c8f11b54903a98a3f33a7f9af6b~mv2.png/v1/fill/w_1325,h_699,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Frame%201.png"
+tampered-spring,2,assets/tampered-spring-02-display.webp,"https://static.wixstatic.com/media/7fd92a_0196e0019e5c4210873c475e4e5aa745~mv2.png/v1/fill/w_1325,h_748,fp_0.46_0.69,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Frame%202.png"
+tampered-spring,3,assets/tampered-spring-03-display.webp,"https://static.wixstatic.com/media/7fd92a_1e1d92e6b08345aa9b364883bce7eb45~mv2.png/v1/fill/w_1325,h_748,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Frame%203.png"
+tampered-spring,4,assets/tampered-spring-04-display.webp,"https://static.wixstatic.com/media/7fd92a_dd44451f69f84f498e3ba909d9413afb~mv2.png/v1/fill/w_1325,h_748,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Frame%208.png"
+tampered-spring,5,assets/tampered-spring-05-display.webp,"https://static.wixstatic.com/media/7fd92a_a65c3ebeefa042ae8e437e35d8fe4c08~mv2.png/v1/fill/w_1325,h_748,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Frame%207.png"
+tampered-spring,6,assets/tampered-spring-06-display.webp,"https://static.wixstatic.com/media/7fd92a_bea7efc59dc445d18e63ec636d8beb25~mv2.png/v1/fill/w_1325,h_748,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/7%203.png"
+consciousindustry,1,assets/consciousindustry-01-display.webp,"https://static.wixstatic.com/media/7fd92a_02f2b964ef7d46ff9b759bda8a253d1d~mv2.png/v1/fill/w_1325,h_653,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Frame%201.png"
+consciousindustry,2,assets/consciousindustry-02-display.webp,"https://static.wixstatic.com/media/7fd92a_07ec6561431c4f6ab756f40c6318fb5b~mv2.png/v1/fill/w_1325,h_748,fp_0.61_0.52,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Frame%2067.png"
+consciousindustry,3,assets/consciousindustry-03-display.webp,"https://static.wixstatic.com/media/7fd92a_f10cea8ad3124bf1a1fd624316104218~mv2.png/v1/fill/w_1325,h_748,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Frame%2068.png"
+consciousindustry,4,assets/consciousindustry-04-display.webp,"https://static.wixstatic.com/media/7fd92a_e6bc09ffc577429297f239037c95317f~mv2.png/v1/fill/w_1325,h_748,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Frame%2017.png"
+consciousindustry,5,assets/consciousindustry-05-display.webp,"https://static.wixstatic.com/media/7fd92a_2feeade2cae54e458f1ba2e9845e4eb3~mv2.png/v1/fill/w_1325,h_748,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Frame%206.png"
+consciousindustry,6,assets/consciousindustry-06-display.webp,"https://static.wixstatic.com/media/7fd92a_40879327a64f4a41933d485d3332f2d2~mv2.png/v1/fill/w_1325,h_748,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Frame%205.png"
